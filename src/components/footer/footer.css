@@ -1,0 +1,37 @@
+.footer{
+    padding: 2rem 12rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(108, 117, 125, 0.1);
+}
+.link ul{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+.link a:hover{
+    color: purple;
+}
+
+.link ul a{
+    padding-right: 1.5rem;
+}
+.flag{
+    display: flex;
+    gap: .5rem;
+}
+
+.flag i{
+    color: black;
+    font-size: .7rem;
+}
+ul li a{
+    color: #54565a;
+}
+a{
+    text-decoration: none;
+    
+    background-color: transparent;
+}

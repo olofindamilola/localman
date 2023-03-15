@@ -1,0 +1,7 @@
+.wav{
+    margin-top: -10rem;
+    color: blue;
+    overflow: hidden;
+    z-index: -99;
+    position: relative;
+}

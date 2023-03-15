@@ -5,7 +5,7 @@ import google from '../../assets/google-play.png'
 import mymoblie from '../../assets/mobile2.png'
 const Payment = () => {
   return (
-        <div className='row_1'>
+    <div className='row_1'>
       <div className="col_1">
         <p className="text_1">LocalMan! credit on</p>
         <p className="text_2">Localman is a financial service that promotes credit culture and financial inclusion.</p>
