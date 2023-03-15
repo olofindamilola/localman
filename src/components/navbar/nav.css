@@ -1,0 +1,32 @@
+nav{
+    display:flex;
+    padding: 1rem 12rem;
+    background-color: #dc3545;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.logo{
+    width: 100px;
+    height: 28px;
+    margin-right: 50px;
+    color: #fff;
+}
+
+.navbar-inner{
+    display: flex;
+}
+.navbar-inner1{
+    display:flex;
+    text-decoration: none;
+    list-style:  none;
+    
+}
+.navbar-inner1 li a{
+    text-decoration: none;
+    margin-left: 50px;
+    color:#fff;
+
+}

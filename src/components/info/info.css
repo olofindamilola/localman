@@ -1,0 +1,33 @@
+.info{
+    display:flex;
+    gap: 5rem;
+    background-color: #f8f9fa;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 3rem 12rem;
+}
+.info_1{
+    font-size: 2rem;
+    margin: .5rem;
+    
+    color: #6f42c1;
+}
+.inf{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    background: rgba(47, 91, 234, 0.08);
+    width: 6.125rem;
+    height: 6.125rem;
+    border-radius: 100px;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: .5rem;
+}

@@ -1,0 +1,46 @@
+.row{
+    padding: 1rem 12rem;
+    display: flex;
+    background-color: #dc3545;
+}
+.col-1{
+    padding-top: 8rem;
+    color: #fff;
+    /* line-height: 1.5; */
+}
+.text-1, .text-2{
+    width:60%;
+    font-weight: 500;
+    font-size: 2.8rem;
+    padding-bottom: 1rem;
+}
+.text-3{
+    width: 80%;
+    font-weight: bold;
+    color:#ffffffda;
+    opacity: 2;
+}
+
+.btn-1{
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+
+}
+
+.icon-play{
+    font-size: 1.5rem;
+    padding-right: 1.5rem;
+}
+.myapple{
+    padding-right: .5rem;
+}
+.col-2{
+    padding-top: 3rem;
+}
+.myimage{
+    width: 500px;
+}
+
+.watch{
+    display:flex;
+}
