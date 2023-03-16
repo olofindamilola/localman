@@ -1,7 +1,7 @@
 nav{
     display:flex;
     padding: 1rem 12rem;
-    background-color: #dc3545;
+    background-color: rgb(231, 76, 60);
     justify-content: space-between;
     align-items: center;
     

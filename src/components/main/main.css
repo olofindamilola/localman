@@ -1,7 +1,7 @@
 .row{
     padding: 1rem 12rem;
     display: flex;
-    background-color: #dc3545;
+    background-color: rgb(231, 76, 60);
     z-index: 99;
 }
 .col-1{
